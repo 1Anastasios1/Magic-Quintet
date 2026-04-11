@@ -28,9 +28,9 @@ Use this template for each chapter of the book. Fill in each section with the re
 
 > _[Placeholder: What inner state or level of consciousness is driving the behaviour? What would a response rooted in awareness and equanimity look like?]_
 
-### 5. Perspective of Michael Jackson (Healing & Love)
+### 5. Perspective of Michael Jackson (Healing, Love through the Arts)
 
-> _[Placeholder: How can love, empathy, and beauty be brought into this situation? What would it mean to heal rather than win?]_
+> _[Placeholder: How can love, empathy,Music, Dance and beauty be brought into this situation? What would it mean to heal rather than win?]_
 
 ### 6. Perspective of Elon Musk (First Principles & Bold Innovation)
 
