@@ -1,4 +1,6 @@
-           “ СОЗДАДИМ МИР БЕЗ ВОЙН, НИЩЕТЫ И ПРЕСТУПНОСТИ, В ГАРМОНИИ С ПРИРОДОЙ?” ;-)
+ # Full Source: Guidebook "World Without Wars" (Resource-Based Economy)
+# Role: Primary knowledge base for the project.          
+“ СОЗДАДИМ МИР БЕЗ ВОЙН, НИЩЕТЫ И ПРЕСТУПНОСТИ, В ГАРМОНИИ С ПРИРОДОЙ?” ;-)
 КНИГА - ПУТЕВОДИТЕЛЬ
 
 ( Книга продолжает редактироваться - будем рады 
